@@ -1,0 +1,29 @@
+﻿{
+  "scenario": "synthetic-mcp-agent-readiness-review",
+  "mcpServers": {
+    "browser-tools-demo": {
+      "type": "http",
+      "url": "https://example.invalid/mcp/browser",
+      "tools": ["browser_navigate", "browser_snapshot", "browser_click"]
+    },
+    "terminal-tools-demo": {
+      "type": "stdio",
+      "command": "demo-terminal-server",
+      "tools": ["read_file", "list_directory", "run_command"]
+    }
+  },
+  "reviewQuestions": [
+    "Are destructive tools disabled or approval-gated?",
+    "Are secrets excluded from logs and screenshots?",
+    "Is the public listing free of private implementation details?",
+    "Are examples synthetic?",
+    "Is there an owner approval gate before publication?"
+  ],
+  "expectedFindingClasses": [
+    "overbroad-tool-exposure",
+    "unclear-approval-boundary",
+    "secret-risk-field",
+    "public-copy-overclaim",
+    "missing-security-boundary"
+  ]
+}
