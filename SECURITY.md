@@ -6,7 +6,7 @@ Never include credentials, API keys, tokens, cookies, private URLs, internal con
 
 ## Reporting a concern
 
-For security or disclosure concerns, contact the repository owner through the GitHub profile or the approved PBT-G contact channel listed on the official product site once publication is approved.
+For security or disclosure concerns, contact the repository owner through the GitHub profile or the approved PBT-G contact channel listed on the official product site.
 
 Do not include secrets or sensitive material in the first message. Report only the minimum information needed to explain the concern. If sensitive handling is required, request a secure channel first.
 

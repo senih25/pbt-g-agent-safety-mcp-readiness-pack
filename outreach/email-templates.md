@@ -1,108 +1,48 @@
-﻿# Outreach Email Templates
+# Outreach templates
 
-## 1. Agent platform / marketplace partner
+These templates are public-safe starting points. Replace placeholders before use. Do not include credentials, private URLs, customer data, internal implementation details, or unpublished evidence in first-contact messages.
 
-Subject: Public-safe MCP readiness pack for agent workflow safety
+## Partner or platform introduction
 
-Hi <Name>,
+Subject: Public-safe MCP readiness material for agent tool review
 
-I am preparing PBT-G Agent Safety & MCP Readiness Pack, a public-safe resource for teams exposing MCP tools, browser automation, terminal workflows, and agent integrations.
+Hello [Name],
 
-The pack helps developers review MCP configuration hygiene, agent tool exposure, public repo secret-risk patterns, and browser/terminal workflow boundaries without sharing private source code, secrets, or proprietary internals.
+I am building PBT-G, a Windows-first governed execution layer for AI assistants that need to work across browser, terminal, file and local workflows with explicit operator boundaries.
 
-Would you be open to a short technical fit call to see whether this could be useful as a listing, connector package, or platform safety resource for <Company> users?
+I am sharing a public-safe readiness pack for teams reviewing MCP configuration, agent tool exposure, demo boundaries and marketplace launch materials. It is separate from the proprietary execution layer and does not expose runtime internals.
 
-Best regards,
-Senih Bayankulu
+Would it be useful to discuss whether this kind of readiness workflow fits your platform, directory or partner review process?
 
-## 2. MCP directory listing request
+Best,
+[Name]
 
-Subject: Listing request: PBT-G Agent Safety & MCP Readiness Pack
+## Marketplace listing note
 
-Hi <Name>,
+Subject: MCP readiness pack for safer public launch preparation
 
-I would like to submit a public-safe MCP readiness resource for your directory. It is a checklist and demo package for developers preparing MCP servers or agent tool integrations.
+Hello [Name],
 
-It focuses on configuration hygiene, tool exposure review, synthetic demo preparation, and public listing readiness. It does not include private source code, secrets, or runtime internals.
+I am preparing public-safe material for teams that want to publish or evaluate MCP servers and agent tools without exposing sensitive implementation details.
 
-Could you confirm whether this type of package is suitable for your directory and which submission format you prefer?
+The pack focuses on configuration hygiene, tool exposure review, synthetic demos, launch copy and security-conscious submission preparation. It is meant to support marketplace and partner review conversations without making claims of certification or guaranteed security.
 
-Best regards,
-Senih Bayankulu
+Could you point me to the best submission or partner review path?
 
-## 3. Security tooling partnership
+Best,
+[Name]
 
-Subject: MCP and agent tool exposure review resource
+## Technical partner note
 
-Hi <Name>,
+Subject: Agent tool exposure review for browser and terminal workflows
 
-I am building a public-safe readiness pack around MCP and AI agent tool exposure. The goal is to help teams identify risky tool boundaries, secret-handling mistakes, overbroad browser/terminal access, and marketplace readiness issues before publishing an integration.
+Hello [Name],
 
-This is not positioned as a certification or scanner; it is a structured review and education layer that could complement developer security workflows.
+I am exploring partnerships around governed AI execution and public-safe readiness workflows for browser, terminal and MCP tool exposure.
 
-Would a short discussion make sense?
+The public pack is designed to help teams prepare safer demos and cleaner launch material while keeping proprietary runtime internals and sensitive operational details private.
 
-Best regards,
-Senih Bayankulu
+Would a short technical conversation be appropriate?
 
-## 4. Automation platform integration
-
-Subject: Guarded browser/terminal readiness workflow for automation users
-
-Hi <Name>,
-
-I am preparing a public-safe PBT-G readiness package for teams using AI agents with browser, terminal, and workflow automation capabilities.
-
-The material helps users review MCP setup, tool exposure, secret-risk boundaries, and safe demo preparation before publishing or scaling automation workflows.
-
-I would like to explore whether this could be useful as a community guide, integration checklist, or partner resource for <Company> users.
-
-Best regards,
-Senih Bayankulu
-
-## 5. Warm Alpic.ai follow-up
-
-Subject: Re: Reach out
-
-Hi Ethan,
-
-Following up on my earlier note: I am preparing a public-safe PBT-G Agent Safety & MCP Readiness Pack. It could be tested as a small pilot for agent workflows that need browser, terminal, local workflow, and MCP tool review without exposing private implementation details.
-
-Would a short 20-30 minute call next week be possible?
-
-Best regards,
-Senih Bayankulu
-
-## 6. MCP Market payment limitation
-
-Subject: Re: Finish your payout setup to get paid on MCP Market
-
-Hi Graeme,
-
-I am interested in publishing MCP/agent skills on MCP Market, but Stripe payout setup is the blocker from Turkiye. I have product-ready public-safe packages, but cannot complete a Stripe-only seller flow.
-
-Could MCP Market support an alternative payout route or recommend a compliant path for sellers in non-Stripe-supported countries?
-
-Best regards,
-Senih Bayankulu
-
-## 7. Short LinkedIn DM
-
-Hi <Name>, I am preparing a public-safe MCP/agent readiness pack focused on tool exposure, browser/terminal workflow boundaries, and marketplace launch hygiene. It may fit <Company>'s agent/developer ecosystem. Open to a short technical fit discussion?
-
-## 8. Founder email
-
-Subject: Guarded MCP readiness package for agent platforms
-
-Hi <Name>,
-
-I am preparing a public-safe readiness package around PBT-G, a guarded browser-terminal MCP layer for AI agent workflows.
-
-The first public asset is not the proprietary core. It is a safe, synthetic-data-only package that helps teams review MCP configuration hygiene, agent tool exposure, browser/terminal workflow risk, public repo secret-risk patterns, and marketplace launch readiness.
-
-I am looking for a small number of platform partners to validate the package as a listing, connector guide, technical pilot, or safety resource.
-
-Would a 20-30 minute discussion be useful?
-
-Best regards,
-Senih Bayankulu
+Best,
+[Name]
