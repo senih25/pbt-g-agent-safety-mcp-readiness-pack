@@ -6,9 +6,9 @@ Never include credentials, API keys, tokens, cookies, private URLs, internal con
 
 ## Reporting a concern
 
-Before publication, replace this placeholder with an approved monitored contact: `security-contact@example.invalid`.
+For security or disclosure concerns, contact the repository owner through the GitHub profile or the approved PBT-G contact channel listed on the official product site once publication is approved.
 
-Report only the minimum information needed to explain a reproducible concern. Do not attach sensitive material. If sensitive handling is required, request a secure channel first.
+Do not include secrets or sensitive material in the first message. Report only the minimum information needed to explain the concern. If sensitive handling is required, request a secure channel first.
 
 ## Scope and limitations
 
