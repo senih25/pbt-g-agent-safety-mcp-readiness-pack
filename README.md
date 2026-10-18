@@ -20,11 +20,15 @@ This pack is not a security certification, penetration test, compliance opinion,
 
 ## Use concept
 
-1. Copy the relevant checklist into a change or release review.
+1. Read the relevant checklist as a reference for your own change or release review. Reproduction or adaptation requires the owner's permission until an approved license is published.
 2. Use the synthetic example to rehearse a safe demonstration.
 3. Record findings without secrets or private paths.
 4. Resolve high-impact exposure decisions with the owner of the affected system.
 5. Publish only material that passes the public-safe boundary in [SECURITY.md](SECURITY.md).
+
+## Availability and permissions
+
+This repository is publicly visible **for review only**. It is **not currently licensed as open source**. Public visibility does not grant permission to copy, modify, redistribute, or use its contents beyond evaluation; see [LICENSE.md](LICENSE.md). Permission for template reuse or redistribution requires an owner-approved license or separate authorization. This documentation pack does not include or license the private PBT-G implementation.
 
 ## Public-safe security boundary
 
@@ -32,6 +36,6 @@ Use fictional data. Do not add API keys, access tokens, cookies, private reposit
 
 ## Pilots and partners
 
-For a scoped pilot or directory/partner discussion, use the placeholder contact in [SECURITY.md](SECURITY.md) after the repository owner has replaced it with an approved channel.
+For a scoped pilot or directory/partner discussion, contact the repository owner using the review channel described in [SECURITY.md](SECURITY.md).
 
 > This repository contains public guidance only. It does not include PBT-G core source code or guarded-runtime implementation details.
