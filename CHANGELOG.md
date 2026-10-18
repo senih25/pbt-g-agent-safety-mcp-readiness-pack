@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### Clarified
+
+- Publicly visible repository remains review-only until the owner approves a reuse license; corrected the outdated pre-publication gate language.
+- README no longer suggests copying checklists without permission; security contact instructions refer to the current policy.
+
 ### Added
 
 - Initial PBT-G Agent Safety & MCP Readiness Pack.
